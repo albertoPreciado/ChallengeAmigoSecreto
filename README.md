@@ -5,7 +5,9 @@ El desafío consiste en crear una aplicación que permita al usuario ingresar di
 Los Usuarios pueden agregar nombres desde un campo de texto y un botón de Añadir, ir visualizando al lista, y al finalizar, sortear los nombres para arrojar el resultado. 
 
 <h2>Funcionalidades</h2>
+
 Agregar nombres
+
 <img width="1422" height="903" alt="image" src="https://github.com/user-attachments/assets/bf676ac5-61f2-4cf2-ad7f-1077373430b6" />
 
 Validar entrada
